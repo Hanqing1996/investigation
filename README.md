@@ -1,6 +1,4 @@
-# 微信小程序
-
-#### 前端框架
+# 微信小程序前端框架选型
 ## [uni-app](https://uniapp.dcloud.io/README)
 * 优点
 1. 跨端性强（一套前端代码,可在H5,App,微信小程序,支付宝小程序等多端上运行）
@@ -29,16 +27,17 @@
 要额外学习它的API,学习成本高
 
 ## [mpvue](https://github.com/Meituan-Dianping/mpvue)
-* 缺点
+* 缺点：
 [github 上的项目已经14个月没人维护了，可能已经凉了](https://github.com/Meituan-Dianping/mpvue/issues/1780)
 
 ## [taro](https://github.com/NervJS/taro)
-* 优点
-star 比 uni-app,wepy 还多20% 左右，说明质量应该过硬
-* 缺点
+* 优点：
+在较短时间内 star 增长迅速，目前比 uni-app,wepy 还多20% 左右，说明质量应该过硬
+* 缺点：
 用 react 写的，可能上手门槛略高 
 
 ## 评价参考
 * [小程序多端框架全面测评](https://zhuanlan.zhihu.com/p/59764741)
 * [微信小程序常见的UI框架/组件库总结](https://zhuanlan.zhihu.com/p/38812738)
+* [Taro vs uni-app选型对比](https://zhuanlan.zhihu.com/p/55903320)
 
